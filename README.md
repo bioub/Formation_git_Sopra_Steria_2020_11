@@ -1,5 +1,7 @@
 # Formation
 
+Formation Git Sopra Steria du 09/11/2020
+
 ## Commande de bases
 
 - `git config`
