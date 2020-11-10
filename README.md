@@ -1,4 +1,4 @@
-# Formation Git Sopra Steria 
+# Formation Git Sopra Steria
 
 Formation Git Basique et avancé Sopra Steria des 09 et 10/11/2020
 
@@ -26,3 +26,9 @@ Formation Git Basique et avancé Sopra Steria des 09 et 10/11/2020
 - `git push`
 - `git fetch`
 - `git pull`
+
+## Principaux workflow
+
+- Git Flow
+- Github Flow
+- Gitlab Flow
