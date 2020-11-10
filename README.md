@@ -16,3 +16,6 @@ Formation Git Sopra Steria du 09/11/2020
 - `git branch`
 - `git checkout`
 - `git switch`
+- `git merge`
+- `git rebase`
+- `git cherry-pick`
