@@ -11,7 +11,7 @@ Formation Git Basique et avancé Sopra Steria des 09 et 10/11/2020
 - `git add`
 - `git commit`
 
-## Commande liées aux branches
+## Commandes liées aux branches
 
 - `git branch`
 - `git checkout`
@@ -19,3 +19,10 @@ Formation Git Basique et avancé Sopra Steria des 09 et 10/11/2020
 - `git merge`
 - `git rebase`
 - `git cherry-pick`
+
+## Commandes liées aux remotes
+
+- `git remote`
+- `git push`
+- `git fetch`
+- `git pull`
