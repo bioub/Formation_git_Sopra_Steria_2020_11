@@ -1,6 +1,6 @@
 # Formation Git Sopra Steria 
 
-Formation Git Sopra Steria des 09 et 10/11/2020
+Formation Git Basique et avancé Sopra Steria des 09 et 10/11/2020
 
 ## Commande de bases
 
