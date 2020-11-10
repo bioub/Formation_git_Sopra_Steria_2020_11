@@ -31,3 +31,4 @@ Formation Git Basique et avancé Sopra Steria des 09 et 10/11/2020
 
 - Git Flow
 - Github Flow
+- Gitlab Flow
