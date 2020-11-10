@@ -10,3 +10,9 @@ Formation Git Sopra Steria du 09/11/2020
 - `git status`
 - `git add`
 - `git commit`
+
+## Commande liées aux branches
+
+- `git branch`
+- `git checkout`
+- `git switch`
